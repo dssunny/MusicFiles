@@ -1,0 +1,88 @@
+src/com/example/getmusic/MainActivity.java:4:	Avoid unused imports such as 'java.util.Arrays'
+src/com/example/getmusic/MainActivity.java:8:	Avoid unused imports such as 'android.app.Activity'
+src/com/example/getmusic/MainActivity.java:12:	Avoid unused imports such as 'android.util.Log'
+src/com/example/getmusic/MainActivity.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MainActivity.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MainActivity.java:17:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MainActivity.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MainActivity.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MainActivity.java:18:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MainActivity.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MainActivity.java:19:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MainActivity.java:20:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MainActivity.java:21:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/example/getmusic/MainActivity.java:24:	Avoid excessively long variable names like savedInstanceState
+src/com/example/getmusic/MainActivity.java:24:	Parameter 'savedInstanceState' is not assigned and could be declared final
+src/com/example/getmusic/MainActivity.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:40:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:57:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:85:	Local variable 'music' could be declared final
+src/com/example/getmusic/MainActivity.java:86:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:86:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:86:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:89:	Local variable 'transaction' could be declared final
+src/com/example/getmusic/MainActivity.java:89:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MainActivity.java:90:	Potential violation of Law of Demeter (object not created locally)
+src/com/example/getmusic/MainActivity.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/com/example/getmusic/MainActivity.java:98:	Parameter 'menu' is not assigned and could be declared final
+src/com/example/getmusic/MainActivity.java:100:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MusicAdapter.java:17:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/example/getmusic/MusicAdapter.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MusicAdapter.java:17:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MusicAdapter.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MusicAdapter.java:18:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MusicAdapter.java:21:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/example/getmusic/MusicAdapter.java:21:	It is a good practice to call super() in a constructor
+src/com/example/getmusic/MusicAdapter.java:21:	Parameter 'arrListMusic' is not assigned and could be declared final
+src/com/example/getmusic/MusicAdapter.java:21:	Parameter 'context' is not assigned and could be declared final
+src/com/example/getmusic/MusicAdapter.java:30:	Parameter 'convertView' is not assigned and could be declared final
+src/com/example/getmusic/MusicAdapter.java:30:	Parameter 'parent' is not assigned and could be declared final
+src/com/example/getmusic/MusicAdapter.java:30:	Parameter 'position' is not assigned and could be declared final
+src/com/example/getmusic/MusicAdapter.java:32:	Found 'DU'-anomaly for variable 'inflater' (lines '31'-'64').
+src/com/example/getmusic/MusicAdapter.java:32:	Local variable 'inflater' could be declared final
+src/com/example/getmusic/MusicAdapter.java:35:	Found 'DD'-anomaly for variable 'gridView' (lines '34'-'36').
+src/com/example/getmusic/MusicAdapter.java:35:	Found 'DD'-anomaly for variable 'gridView' (lines '34'-'38').
+src/com/example/getmusic/MusicAdapter.java:36:	Avoid if (x != y) ..; else ..;
+src/com/example/getmusic/MusicAdapter.java:39:	Found 'DD'-anomaly for variable 'gridView' (lines '38'-'41').
+src/com/example/getmusic/MusicAdapter.java:42:	Potential violation of Law of Demeter (object not created locally)
+src/com/example/getmusic/MusicAdapter.java:48:	Local variable 'musicNameTxtView' could be declared final
+src/com/example/getmusic/MusicAdapter.java:48:	Potential violation of Law of Demeter (object not created locally)
+src/com/example/getmusic/MusicAdapter.java:52:	Potential violation of Law of Demeter (object not created locally)
+src/com/example/getmusic/MusicAdapter.java:56:	Potential violation of Law of Demeter (object not created locally)
+src/com/example/getmusic/MusicAdapter.java:80:	Parameter 'position' is not assigned and could be declared final
+src/com/example/getmusic/MusicAdapter.java:88:	Parameter 'position' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:8:	Avoid unused imports such as 'android.content.MutableContextWrapper'
+src/com/example/getmusic/MusicFragment.java:12:	Avoid unused imports such as 'android.text.Html'
+src/com/example/getmusic/MusicFragment.java:16:	Avoid unused imports such as 'android.view.WindowManager'
+src/com/example/getmusic/MusicFragment.java:17:	Avoid unused imports such as 'android.view.animation.Animation'
+src/com/example/getmusic/MusicFragment.java:18:	Avoid unused imports such as 'android.view.animation.AnimationUtils'
+src/com/example/getmusic/MusicFragment.java:27:	Avoid excessively long variable names like popupWindowFuturesDateList
+src/com/example/getmusic/MusicFragment.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MusicFragment.java:27:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MusicFragment.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MusicFragment.java:29:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MusicFragment.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MusicFragment.java:30:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MusicFragment.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MusicFragment.java:31:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MusicFragment.java:32:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/example/getmusic/MusicFragment.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/example/getmusic/MusicFragment.java:32:	Use explicit scoping instead of the default package private level
+src/com/example/getmusic/MusicFragment.java:35:	Parameter 'container' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:35:	Parameter 'inflater' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:36:	Avoid excessively long variable names like savedInstanceState
+src/com/example/getmusic/MusicFragment.java:36:	Parameter 'savedInstanceState' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:40:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MusicFragment.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/com/example/getmusic/MusicFragment.java:60:	Parameter 'parent' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:60:	Parameter 'view' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:61:	Avoid variables with short names like id
+src/com/example/getmusic/MusicFragment.java:61:	Parameter 'id' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:61:	Parameter 'position' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:63:	Local variable 'selectedText' could be declared final
+src/com/example/getmusic/MusicFragment.java:80:	Parameter 'selectedText' is not assigned and could be declared final
+src/com/example/getmusic/MusicFragment.java:83:	Local variable 'popupWindow' could be declared final
+src/com/example/getmusic/MusicFragment.java:90:	Local variable 'txtPopup' could be declared final
